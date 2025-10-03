@@ -19,7 +19,7 @@ elif money == 2500:
 else: 
     print("Saad osta iphone 17 pro ja veel raha jääb üle.")
  """
-
+""" 
 goal = 10000
 steps = int(input("mitu sammu oled teinud?:"))
 
@@ -33,3 +33,5 @@ elif print < 100:
     print("Suurepärane, oled peaaegu kohal!")
 else:
     print("Palju õnne, oled oma eesmärgi täitnud!")
+           """
+
